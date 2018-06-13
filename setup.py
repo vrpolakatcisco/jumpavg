@@ -26,7 +26,7 @@ setup(
         "Intended Audience :: Science/Research",
         # Pick your license as you wish
         "License :: OSI Approved :: Apache Software License",
-        "Natural Language :: English"
+        "Natural Language :: English",
         # TODO: Test which Python versions is the code compatible with.
         "Programming Language :: Python :: 2.7",
         "Topic :: Scientific/Engineering :: Information Analysis"
